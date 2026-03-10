@@ -11,8 +11,6 @@
 
 Amazon Web Services is a comprehensive cloud computing platform offering services from computing power to storage, AI, analytics, and DevOps. This list is for developers, system administrators, DevOps engineers, and learners building on AWS.
 
----
-
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -29,8 +27,6 @@ Amazon Web Services is a comprehensive cloud computing platform offering service
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 - [Related Awesome Lists](#related-awesome-lists)
-
----
 
 ## Official Resources
 
@@ -133,7 +129,9 @@ Amazon Web Services is a comprehensive cloud computing platform offering service
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
