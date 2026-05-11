@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AWS"
+abstract: "A curated list of tools, services, tutorials, architectures, open-source projects, automation frameworks, and educational resources related to Amazon Web Services and the broader AWS cloud ecosystem."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-aws"
+keywords:
+  - AWS
+  - Amazon Web Services
+  - cloud computing
+  - DevOps
+  - Kubernetes
+  - cloud infrastructure
+  - serverless
+  - cloud security
+  - developer tools
+  - awesome list
